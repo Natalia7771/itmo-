@@ -1,1 +1,1 @@
-# itmo-
+ITMO Java lesson project.
