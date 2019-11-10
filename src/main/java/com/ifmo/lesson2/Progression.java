@@ -7,5 +7,7 @@ public class Progression {
      */
     public static void main(String[] args) {
         // TODO implement
+        for (int a = 1000; a < 10000; a = a + 3)  //Выражение x -= b означает x = x - b.
+            System.out.print(a + " ");
     }
 }

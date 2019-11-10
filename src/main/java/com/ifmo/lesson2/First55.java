@@ -6,5 +6,8 @@ public class First55 {
      */
     public static void main(String[] args) {
         // TODO implement
+        for(int a=1, b=1;a<=55;a++,b=b+2){
+            System.out.print(b+" ");
+        }
     }
 }
